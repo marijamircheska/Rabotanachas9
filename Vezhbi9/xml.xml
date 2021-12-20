@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Vraboten><Ime>Stefanovski</Ime><Prezime>Stefan</Prezime><Plata>10000</Plata></Vraboten>
